@@ -1,0 +1,19 @@
+{
+    "name": "imran/verifier",
+    "description": "testing package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "webz2feel",
+            "email": "imran.ali125@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Imran\\Verifier\\": "package/verifier/src"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "devdojo/calculator",
+    "description": "testing package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "webz2feel",
+            "email": "imran.ali125@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devdojo\\Calculator\\": "package/devdojo/calculator/src"
+        }
+    }
+}
